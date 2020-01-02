@@ -6,20 +6,57 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <tk.nathanf.fontawesome.FATextView
+    <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-
-        app:fa_type="solid"
-        app:fa_icon="@string/fa_cloud_drizzle"
-
-        android:textColor="@android:color/black"
-        android:textSize="150sp"
-
+        app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        />
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal">
+            <tk.nathanf.fontawesome.FATextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:fa_type="light"
+                app:fa_icon="@string/fa_cog"
+                android:textColor="#AAAAAA"
+                android:layout_marginRight="8dp"
+                android:textSize="64sp"/>
+            <tk.nathanf.fontawesome.FATextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:fa_type="brands"
+                app:fa_icon="@string/fa_github"
+                android:textColor="#4078c0"
+                android:textSize="64sp"/>
+            <tk.nathanf.fontawesome.FATextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                app:fa_type="solid"
+                app:fa_icon="@string/fa_space_station_moon"
+                android:textColor="#AAAAAA"
+                android:textSize="64sp"/>
+        </LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Font Awesome for Android"
+            android:textSize="18sp"
+            android:layout_gravity="center" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="github.com/nathan-fiscaletti/fa-android"
+            android:textSize="18sp"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_gravity="center" />
+    </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
