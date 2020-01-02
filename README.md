@@ -2,6 +2,8 @@
 
 An implementation of Font Awesome for Android Projects.
 
+Learn more about Font Awesome [here](https://fontawsome.com)
+
 [![](https://jitpack.io/v/nathan-fiscaletti/fa-android.svg)](https://jitpack.io/#nathan-fiscaletti/fa-android)
 [![](https://jitpack.io/v/nathan-fiscaletti/fa-android/month.svg)](https://jitpack.io/#nathan-fiscaletti/fa-android)
 [![GitHub license](https://img.shields.io/github/license/nathan-fiscaletti/fa-android.svg?color=blue)](https://github.com/nathan-fiscaletti/fa-android/blob/master/LICENSE)
