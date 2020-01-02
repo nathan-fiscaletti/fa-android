@@ -2,6 +2,10 @@
 
 An implementation of Font Awesome for Android Projects.
 
+[![](https://jitpack.io/v/nathan-fiscaletti/fa-android.svg)](https://jitpack.io/#nathan-fiscaletti/fa-android)
+[![](https://jitpack.io/v/nathan-fiscaletti/fa-android/month.svg)](https://jitpack.io/#nathan-fiscaletti/fa-android)
+[![GitHub license](https://img.shields.io/github/license/nathan-fiscaletti/fa-android.svg?color=blue)](https://github.com/nathan-fiscaletti/fa-android/blob/master/LICENSE)
+
 ## Install Font Awesome for Android into your Android application
 
 1. In your **project level** `build.gradle` add the repository
