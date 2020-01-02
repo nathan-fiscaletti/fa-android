@@ -32,7 +32,7 @@ After installing the library, in your target (not in the fontawesome target), yo
 
 The final directory structure should look like this:
 
-![./images/preview.png](File Structure Preview)
+![File Structure Preview](./images/preview.png)
 
 ## General Usage
 
