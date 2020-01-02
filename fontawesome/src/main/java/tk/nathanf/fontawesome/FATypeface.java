@@ -5,20 +5,24 @@ import android.graphics.Typeface;
 
 import java.util.HashMap;
 
+/**
+ * A utility class for loading Font Awesome Typefaces.
+ */
+@SuppressWarnings("WeakerAccess")
 public class FATypeface {
+    /**
+     * A cache of loaded Font Awesome Type Faces.
+     */
     private static HashMap<FAType, Typeface> loadedTypeFaces = new HashMap<>();
 
+    /**
+     * The Font Awesome Types.
+     */
     public enum FAType {
-        Brands(0),
-        Light(1),
-        Regular(2),
-        Solid(3);
-
-        private int value;
-
-        FAType(int value) {
-            this.value = value;
-        }
+        Brands,
+        Light,
+        Regular,
+        Solid;
 
         public static FAType getType(int value) {
             if (value == 0) {
@@ -35,6 +39,15 @@ public class FATypeface {
         }
     }
 
+    /**
+     * Retrieve a Typeface based on the Font Awesome Type.
+     *
+     * @param context The Context.
+     * @param type    The Font Awesome Type.
+     *
+     * @return        The typeface.
+     */
+    @SuppressWarnings("WeakerAccess")
     public static Typeface getTypeFace(Context context, FAType type) {
         if (! loadedTypeFaces.containsKey(type)) {
             String fontName;
