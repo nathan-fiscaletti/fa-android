@@ -77,7 +77,15 @@ public class FATextView extends AppCompatTextView {
         setIncludeFontPadding(false);
     }
 
+    public void setIcon(@StringRes int icon) {
+        this.setText(icon);
+    }
+
     public void setTypeface(FATypeface.FAType type) {
         setTypeface(FATypeface.getTypeFace(context, type));
+    }
+
+    public void autoSizeIcon() {
+        TextViewCompat.setAutoSizeTextTypeUniformWithConfiguration(this, 1, 2000, 1, TypedValue.COMPLEX_UNIT_DIP);
     }
 }
