@@ -28,7 +28,7 @@ After installing the library, in your target (not in the fontawesome target), yo
 
 1. Create a directory in `your_app/src/main` called `assets`.
 2. Within the `assets` directory create a directory called `fonts`.
-3. Download your web fonts from font awesome and move either your free or pro font awesome font files into the assets directory, this project supports both.
+3. Download your web fonts from font awesome and move either your free or pro font awesome font files into the assets directory, this project supports both. You should specifically move the `.ttf` font files. For Font Awesome 5.12.0 they are stored within the `webfonts` directory of the zip file you download.
 
 The final directory structure should look like this:
 
