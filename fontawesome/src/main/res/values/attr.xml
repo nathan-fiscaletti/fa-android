@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FATextView">
+        <attr name="fa_type" format="enum">
+            <enum name="brands" value="0" />
+            <enum name="light" value="1" />
+            <enum name="regular" value="2" />
+            <enum name="solid" value="3" />
+        </attr>
+        <attr name="fa_autosize" format="boolean" />
+        <attr name="fa_icon" format="string" />
+    </declare-styleable>
+</resources>

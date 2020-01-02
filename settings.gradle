@@ -1,0 +1,2 @@
+include ':demo', ':fontawesome'
+rootProject.name='Font Awesome Demo'
