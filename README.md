@@ -92,6 +92,8 @@ faTextView.setTypeface(FATypeface.FAType.Solid);
 
 ### Controlling the Icon Size
 
+![SizePreview](./images/size_demo.gif)
+
 There are two ways to control the size of the icon. 
 
 * Use `wrap_content` for both the **width** and **height** of your view, and control the icon size using `android:textSize="XXsp".
