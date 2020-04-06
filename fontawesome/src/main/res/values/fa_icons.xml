@@ -136,6 +136,8 @@
     <string name="fa_backspace">&#xf55a;</string>
     <string name="fa_backward">&#xf04a;</string>
     <string name="fa_bacon">&#xf7e5;</string>
+    <string name="fa_bacteria">&#xf959;</string>
+    <string name="fa_bacterium">&#xf95a;</string>
     <string name="fa_badge">&#xf335;</string>
     <string name="fa_badge_check">&#xf336;</string>
     <string name="fa_badge_dollar">&#xf645;</string>
@@ -260,6 +262,7 @@
     <string name="fa_box_full">&#xf49c;</string>
     <string name="fa_box_heart">&#xf49d;</string>
     <string name="fa_box_open">&#xf49e;</string>
+    <string name="fa_box_tissue">&#xf95b;</string>
     <string name="fa_box_up">&#xf49f;</string>
     <string name="fa_box_usd">&#xf4a0;</string>
     <string name="fa_boxes">&#xf468;</string>
@@ -486,6 +489,7 @@
     <string name="fa_coffee_pot">&#xf902;</string>
     <string name="fa_coffee_togo">&#xf6c5;</string>
     <string name="fa_coffin">&#xf6c6;</string>
+    <string name="fa_coffin_cross">&#xf951;</string>
     <string name="fa_cog">&#xf013;</string>
     <string name="fa_cogs">&#xf085;</string>
     <string name="fa_coin">&#xf85c;</string>
@@ -590,6 +594,7 @@
     <string name="fa_d_and_d">&#xf38d;</string>
     <string name="fa_d_and_d_beyond">&#xf6ca;</string>
     <string name="fa_dagger">&#xf6cb;</string>
+    <string name="fa_dailymotion">&#xf952;</string>
     <string name="fa_dashcube">&#xf210;</string>
     <string name="fa_database">&#xf1c0;</string>
     <string name="fa_deaf">&#xf2a4;</string>
@@ -833,11 +838,13 @@
     <string name="fa_fly">&#xf417;</string>
     <string name="fa_fog">&#xf74e;</string>
     <string name="fa_folder">&#xf07b;</string>
+    <string name="fa_folder_download">&#xf953;</string>
     <string name="fa_folder_minus">&#xf65d;</string>
     <string name="fa_folder_open">&#xf07c;</string>
     <string name="fa_folder_plus">&#xf65e;</string>
     <string name="fa_folder_times">&#xf65f;</string>
     <string name="fa_folder_tree">&#xf802;</string>
+    <string name="fa_folder_upload">&#xf954;</string>
     <string name="fa_folders">&#xf660;</string>
     <string name="fa_font">&#xf031;</string>
     <string name="fa_font_awesome">&#xf2b4;</string>
@@ -979,6 +986,7 @@
     <string name="fa_hand_holding_box">&#xf47b;</string>
     <string name="fa_hand_holding_heart">&#xf4be;</string>
     <string name="fa_hand_holding_magic">&#xf6e5;</string>
+    <string name="fa_hand_holding_medical">&#xf95c;</string>
     <string name="fa_hand_holding_seedling">&#xf4bf;</string>
     <string name="fa_hand_holding_usd">&#xf4c0;</string>
     <string name="fa_hand_holding_water">&#xf4c1;</string>
@@ -994,13 +1002,17 @@
     <string name="fa_hand_receiving">&#xf47c;</string>
     <string name="fa_hand_rock">&#xf255;</string>
     <string name="fa_hand_scissors">&#xf257;</string>
+    <string name="fa_hand_sparkles">&#xf95d;</string>
     <string name="fa_hand_spock">&#xf259;</string>
     <string name="fa_hands">&#xf4c2;</string>
     <string name="fa_hands_heart">&#xf4c3;</string>
     <string name="fa_hands_helping">&#xf4c4;</string>
     <string name="fa_hands_usd">&#xf4c5;</string>
+    <string name="fa_hands_wash">&#xf95e;</string>
     <string name="fa_handshake">&#xf2b5;</string>
     <string name="fa_handshake_alt">&#xf4c6;</string>
+    <string name="fa_handshake_alt_slash">&#xf95f;</string>
+    <string name="fa_handshake_slash">&#xf960;</string>
     <string name="fa_hanukiah">&#xf6e6;</string>
     <string name="fa_hard_hat">&#xf807;</string>
     <string name="fa_hashtag">&#xf292;</string>
@@ -1014,8 +1026,12 @@
     <string name="fa_hdd">&#xf0a0;</string>
     <string name="fa_head_side">&#xf6e9;</string>
     <string name="fa_head_side_brain">&#xf808;</string>
+    <string name="fa_head_side_cough">&#xf961;</string>
+    <string name="fa_head_side_cough_slash">&#xf962;</string>
     <string name="fa_head_side_headphones">&#xf8c2;</string>
+    <string name="fa_head_side_mask">&#xf963;</string>
     <string name="fa_head_side_medical">&#xf809;</string>
+    <string name="fa_head_side_virus">&#xf964;</string>
     <string name="fa_head_vr">&#xf6ea;</string>
     <string name="fa_heading">&#xf1dc;</string>
     <string name="fa_headphones">&#xf025;</string>
@@ -1074,6 +1090,7 @@
     <string name="fa_house_night">&#xf910;</string>
     <string name="fa_house_return">&#xf911;</string>
     <string name="fa_house_signal">&#xf912;</string>
+    <string name="fa_house_user">&#xf965;</string>
     <string name="fa_houzz">&#xf27c;</string>
     <string name="fa_hryvnia">&#xf6f2;</string>
     <string name="fa_html5">&#xf13b;</string>
@@ -1107,6 +1124,7 @@
     <string name="fa_info_square">&#xf30f;</string>
     <string name="fa_inhaler">&#xf5f9;</string>
     <string name="fa_instagram">&#xf16d;</string>
+    <string name="fa_instagram_square">&#xf955;</string>
     <string name="fa_integral">&#xf667;</string>
     <string name="fa_intercom">&#xf7af;</string>
     <string name="fa_internet_explorer">&#xf26b;</string>
@@ -1164,6 +1182,7 @@
     <string name="fa_language">&#xf1ab;</string>
     <string name="fa_laptop">&#xf109;</string>
     <string name="fa_laptop_code">&#xf5fc;</string>
+    <string name="fa_laptop_house">&#xf966;</string>
     <string name="fa_laptop_medical">&#xf812;</string>
     <string name="fa_laravel">&#xf3bd;</string>
     <string name="fa_lasso">&#xf8c8;</string>
@@ -1236,6 +1255,7 @@
     <string name="fa_luchador">&#xf455;</string>
     <string name="fa_luggage_cart">&#xf59d;</string>
     <string name="fa_lungs">&#xf604;</string>
+    <string name="fa_lungs_virus">&#xf967;</string>
     <string name="fa_lyft">&#xf3c3;</string>
     <string name="fa_mace">&#xf6f8;</string>
     <string name="fa_magento">&#xf3c4;</string>
@@ -1313,6 +1333,7 @@
     <string name="fa_mitten">&#xf7b5;</string>
     <string name="fa_mix">&#xf3cb;</string>
     <string name="fa_mixcloud">&#xf289;</string>
+    <string name="fa_mixer">&#xf956;</string>
     <string name="fa_mizuni">&#xf3cc;</string>
     <string name="fa_mobile">&#xf10b;</string>
     <string name="fa_mobile_alt">&#xf3cd;</string>
@@ -1430,6 +1451,7 @@
     <string name="fa_pencil_ruler">&#xf5ae;</string>
     <string name="fa_pennant">&#xf456;</string>
     <string name="fa_penny_arcade">&#xf704;</string>
+    <string name="fa_people_arrows">&#xf968;</string>
     <string name="fa_people_carry">&#xf4ce;</string>
     <string name="fa_pepper_hot">&#xf816;</string>
     <string name="fa_percent">&#xf295;</string>
@@ -1477,6 +1499,7 @@
     <string name="fa_plane_alt">&#xf3de;</string>
     <string name="fa_plane_arrival">&#xf5af;</string>
     <string name="fa_plane_departure">&#xf5b0;</string>
+    <string name="fa_plane_slash">&#xf969;</string>
     <string name="fa_planet_moon">&#xf91f;</string>
     <string name="fa_planet_ringed">&#xf920;</string>
     <string name="fa_play">&#xf04b;</string>
@@ -1517,6 +1540,8 @@
     <string name="fa_product_hunt">&#xf288;</string>
     <string name="fa_project_diagram">&#xf542;</string>
     <string name="fa_projector">&#xf8d6;</string>
+    <string name="fa_pump_medical">&#xf96a;</string>
+    <string name="fa_pump_soap">&#xf96b;</string>
     <string name="fa_pumpkin">&#xf707;</string>
     <string name="fa_pushed">&#xf3e1;</string>
     <string name="fa_puzzle_piece">&#xf12e;</string>
@@ -1670,12 +1695,14 @@
     <string name="fa_shield_alt">&#xf3ed;</string>
     <string name="fa_shield_check">&#xf2f7;</string>
     <string name="fa_shield_cross">&#xf712;</string>
+    <string name="fa_shield_virus">&#xf96c;</string>
     <string name="fa_ship">&#xf21a;</string>
     <string name="fa_shipping_fast">&#xf48b;</string>
     <string name="fa_shipping_timed">&#xf48c;</string>
     <string name="fa_shirtsinbulk">&#xf214;</string>
     <string name="fa_shish_kebab">&#xf821;</string>
     <string name="fa_shoe_prints">&#xf54b;</string>
+    <string name="fa_shopify">&#xf957;</string>
     <string name="fa_shopping_bag">&#xf290;</string>
     <string name="fa_shopping_basket">&#xf291;</string>
     <string name="fa_shopping_cart">&#xf07a;</string>
@@ -1709,6 +1736,7 @@
     <string name="fa_signature">&#xf5b7;</string>
     <string name="fa_sim_card">&#xf7c4;</string>
     <string name="fa_simplybuilt">&#xf215;</string>
+    <string name="fa_sink">&#xf96d;</string>
     <string name="fa_siren">&#xf92d;</string>
     <string name="fa_siren_on">&#xf92e;</string>
     <string name="fa_sistrix">&#xf3ee;</string>
@@ -1757,6 +1785,7 @@
     <string name="fa_snowman">&#xf7d0;</string>
     <string name="fa_snowmobile">&#xf7d1;</string>
     <string name="fa_snowplow">&#xf7d2;</string>
+    <string name="fa_soap">&#xf96e;</string>
     <string name="fa_socks">&#xf696;</string>
     <string name="fa_solar_panel">&#xf5ba;</string>
     <string name="fa_solar_system">&#xf92f;</string>
@@ -1851,8 +1880,11 @@
     <string name="fa_stop">&#xf04d;</string>
     <string name="fa_stop_circle">&#xf28d;</string>
     <string name="fa_stopwatch">&#xf2f2;</string>
+    <string name="fa_stopwatch_20">&#xf96f;</string>
     <string name="fa_store">&#xf54e;</string>
     <string name="fa_store_alt">&#xf54f;</string>
+    <string name="fa_store_alt_slash">&#xf970;</string>
+    <string name="fa_store_slash">&#xf971;</string>
     <string name="fa_strava">&#xf428;</string>
     <string name="fa_stream">&#xf550;</string>
     <string name="fa_street_view">&#xf21d;</string>
@@ -1984,6 +2016,7 @@
     <string name="fa_toilet">&#xf7d8;</string>
     <string name="fa_toilet_paper">&#xf71e;</string>
     <string name="fa_toilet_paper_alt">&#xf71f;</string>
+    <string name="fa_toilet_paper_slash">&#xf972;</string>
     <string name="fa_tombstone">&#xf720;</string>
     <string name="fa_tombstone_alt">&#xf721;</string>
     <string name="fa_toolbox">&#xf552;</string>
@@ -2117,12 +2150,14 @@
     <string name="fa_user_tag">&#xf507;</string>
     <string name="fa_user_tie">&#xf508;</string>
     <string name="fa_user_times">&#xf235;</string>
+    <string name="fa_user_unlock">&#xf958;</string>
     <string name="fa_user_visor">&#xf94c;</string>
     <string name="fa_users">&#xf0c0;</string>
     <string name="fa_users_class">&#xf63d;</string>
     <string name="fa_users_cog">&#xf509;</string>
     <string name="fa_users_crown">&#xf6a5;</string>
     <string name="fa_users_medical">&#xf830;</string>
+    <string name="fa_users_slash">&#xf973;</string>
     <string name="fa_usps">&#xf7e1;</string>
     <string name="fa_ussunnah">&#xf407;</string>
     <string name="fa_utensil_fork">&#xf2e3;</string>
@@ -2154,6 +2189,9 @@
     <string name="fa_vimeo_v">&#xf27d;</string>
     <string name="fa_vine">&#xf1ca;</string>
     <string name="fa_violin">&#xf8ed;</string>
+    <string name="fa_virus">&#xf974;</string>
+    <string name="fa_virus_slash">&#xf975;</string>
+    <string name="fa_viruses">&#xf976;</string>
     <string name="fa_vk">&#xf189;</string>
     <string name="fa_vnv">&#xf40b;</string>
     <string name="fa_voicemail">&#xf897;</string>
